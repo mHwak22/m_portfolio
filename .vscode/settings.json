@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "path-intellisense.extensionOnImport": true,
+    "path-intellisense.ignoreTsConfigBaseUrl": true,
+    "path-intellisense.showHiddenFiles": true,
+    "path-intellisense.showOnAbsoluteSlash": true,
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "tailwindCSS.experimental.configFile": null
+}
